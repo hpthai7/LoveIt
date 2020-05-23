@@ -4,7 +4,7 @@ github:
   prefix: https://github.com/
   title: GitHub
   icon:
-    class: fab fa-github-alt fa-fw
+    class: fab fa-github-square fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -20,7 +20,7 @@ twitter:
   prefix: https://twitter.com/
   title: Twitter
   icon:
-    class: fab fa-twitter fa-fw
+    class: fab fa-twitter-square fa-fw
 
 # 004: Instagram
 instagram:
@@ -36,7 +36,7 @@ facebook:
   prefix: https://facebook.com/
   title: facebook
   icon:
-    class: fab fa-facebook fa-fw
+    class: fab fa-facebook-square fa-fw
 
 # 006: Telegram
 telegram:
